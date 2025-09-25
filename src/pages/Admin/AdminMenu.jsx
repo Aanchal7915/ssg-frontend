@@ -151,7 +151,7 @@ const AdminMenu = ({ toggleMenu }) => {
                                 Add Product
                             </div>
                         </NavLink>
-                        {/* <NavLink
+                        <NavLink
                             to="./category"
                             onClick={scrollToTop}
                             className={({ isActive }) =>
@@ -163,7 +163,7 @@ const AdminMenu = ({ toggleMenu }) => {
                             <div className="h-[40px] px-[60px] flex items-center hover:text-indigo-400 hover:bg-gray-800 rounded">
                                 category
                             </div>
-                        </NavLink> */}
+                        </NavLink>
                     </div>
                 </div>
 
